@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=9D8FD9&center=true&vCenter=true&width=560&lines=Biomedical+Engineer;Master's+student+in+AI+%26+Data+Engineering;Machine+learning+on+health+data" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=9D8FD9&center=true&vCenter=true&width=560&lines=Biomedical+Engineer;Master's+student+in+AI+%26+Data+Engineering" alt="Typing animation"/>
 </p>
 
 ## 👩‍💻 About me
@@ -53,10 +53,6 @@ My background combines engineering and biomedical fundamentals with machine lear
 ![NetBeans](https://img.shields.io/badge/NetBeans-FFC8DD?style=flat&logo=apachenetbeanside&logoColor=4B4B4B)
 ![Postman](https://img.shields.io/badge/Postman-FFC8DD?style=flat&logo=postman&logoColor=4B4B4B)
 ![Canva](https://img.shields.io/badge/Canva-FFC8DD?style=flat)
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chiaranasoni-A8D8F0?style=flat&logoColor=4B4B4B)](https://www.linkedin.com/in/chiaranasoni)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:CDB4DB,100:A8D8F0&height=100&section=footer" width="100%" alt=""/>
